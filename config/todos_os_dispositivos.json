@@ -1,0 +1,13 @@
+{
+	"dispositivos":
+	[
+		{
+			"descricao": "LGE_LG_K10",
+			"id": "01",
+			"os": "Android",
+			"automationName": "uiautomator2",
+			"nomeStf": "LG-M250",
+			"udid": "LGM250LROZS4ZHZDVG"
+		}
+	]
+}
