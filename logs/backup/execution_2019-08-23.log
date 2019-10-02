@@ -1,0 +1,1106 @@
+23/08/2019 12:54:02  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 12:54:02  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 12:54:02  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando um <test> para o dispositivo 'ce081718a98aee3205' ...
+23/08/2019 12:54:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 13:11:08 ERROR [           main] b.c.s.a.s.m.c.LoopRunner : Ainda não há uma implementação para a plataforma 'MOBILECENTER' ...
+23/08/2019 13:12:17  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:12:38 ERROR [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Falha ao iniciar suite de teste sobre a plataforma 'CHROME' ...
+java.lang.NullPointerException: null
+	at org.testng.TestNG.initializeSuitesAndJarFile(TestNG.java:272) ~[testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1101) ~[testng-6.11.jar:?]
+	at br.com.santander.automation.selenium.mobile.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:52) [classes/:?]
+	at br.com.santander.automation.selenium.mobile.config.LoopRunner.executarLocal(LoopRunner.java:114) [classes/:?]
+	at br.com.santander.automation.selenium.mobile.config.LoopRunner.executar(LoopRunner.java:58) [classes/:?]
+	at br.com.santander.automation.selenium.mobile.config.LoopRunner.executar(LoopRunner.java:40) [classes/:?]
+	at br.com.santander.app.pj.android.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 13:25:44  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:25:53  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:26:18 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:26:18  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:26:18  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:26:18  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:26:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:26:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:26:19  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:27:58  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:28:04  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:28:42 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:28:42  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:28:42  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:28:43  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:28:43  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:28:43  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:28:43  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:29:14  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:29:14  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:29:44 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:29:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:29:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:29:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:29:45  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:29:45  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:29:45  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:30:49  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:30:49  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:31:40 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:31:40  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:31:41  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:31:41  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:31:41  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:31:41  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:31:41  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:32:19  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:32:19  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:32:53 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:32:53  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:32:54  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:32:54  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:32:54  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:32:54  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:32:54  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:33:12  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:33:12  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:33:40 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:33:40  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:33:40  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:33:40  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:33:40  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:33:41  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:33:54  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:33:54  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:34:32 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:34:32  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:34:33  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:34:33  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:34:33  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:34:33  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:34:44  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:34:44  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:36:11 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:36:38  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:36:38  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:36:46 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:36:46  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:37:01  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:37:01  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:37:30 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:37:35  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:37:53  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:37:53  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:37:57 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:38:09  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:38:43  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:38:43  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:38:43 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='null' ...
+23/08/2019 13:38:49  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:39:05  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:43:42  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:43:42  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:43:56 ERROR [           main] b.c.s.a.s.m.c.d.GerenciadorDeDispositivos : Não foi encontrado um dispositivo de udid='00000000000' ...
+23/08/2019 13:43:57  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 13:47:22  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:47:22  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:49:54  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:49:54  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:55:03  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:55:03  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:55:49  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:55:49  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:56:03  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 13:59:58  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 13:59:58  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 13:59:59  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:00:31  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:00:31  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:00:32  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:02:05  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:02:05  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:02:14  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:07:39  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:07:39  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:07:44  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:07:50  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:07:50  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:08:00  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:09:27  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:09:27  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:09:30  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:09:49  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:09:49  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_00_00_TransferirSantander foi pulado ...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:09:51  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:15:55  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:15:55  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:18:26  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:18:26  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:18:42  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:18:42  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:19:06  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:19:06  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:19:38  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:19:38  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:19:41  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:19:41  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:20:53  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:20:53  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:22:13  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:22:13  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:22:55  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:22:55  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:23:12  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:23:12  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:23:43  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:23:43  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:23:57  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander foi pulado ...
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:24:05  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:24:26  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:24:26  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:26:26  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:26:26  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:26:35  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander falhou ...
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:27:53  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:28:02  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:28:02  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:28:03  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:28:30  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:28:30  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:28:31  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:29:04  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:29:04  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:29:06  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander falhou ...
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:29:19  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:30:00  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:30:00  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:30:01  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:30:44  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:30:44  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:30:45  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander falhou ...
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:30:51  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:31:01  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:31:01  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:31:02  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander falhou ...
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:31:06  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 14:31:21  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:31:21  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:31:23  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:33:18  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:33:18  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:33:20  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:35:33  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 14:35:33  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 14:35:34  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander falhou ...
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 14:36:50  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 16:01:38  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:01:38  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:01:39  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_01_00_TransferirSantander falhou ...
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: CORPORATE_ASSET_MANAGEMENT
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_02_00_TransferirSantander foi pulado ...
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PRIVATE_EMPRESAS_1
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_05_00_TransferirSantander foi pulado ...
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: PJ_PRIVATE
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_03_00_TransferirSantander foi pulado ...
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: NEGOCIOS_DIRECT
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_04_00_TransferirSantander foi pulado ...
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 16:01:46  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 16:03:38  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:03:38  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:03:39  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 16:03:47  INFO [           main] b.c.s.a.p.a.t.MenuPrincipalBusiness : null (null) : verificando se o menu principal existe ...
+23/08/2019 16:03:57  INFO [           main] b.c.s.a.p.a.t.MenuPrincipalBusiness : null (null) : O botao do Menu Principal ainda nao esta visivel (tentativa 1 de 7 ) ...
+23/08/2019 16:04:09  INFO [           main] b.c.s.a.p.a.t.MenuPrincipalBusiness : null (null) : O botao do Menu Principal ainda nao esta visivel (tentativa 2 de 7 ) ...
+23/08/2019 16:04:20  INFO [           main] b.c.s.a.p.a.t.MenuPrincipalBusiness : null (null) : O botao do Menu Principal ainda nao esta visivel (tentativa 3 de 7 ) ...
+23/08/2019 16:07:27  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:07:27  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:07:28  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 16:07:37  INFO [           main] b.c.s.a.p.a.t.MenuPrincipalBusiness : null (null) : verificando se o menu principal existe ...
+23/08/2019 16:08:14  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:08:14  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:08:15  INFO [           main] b.c.s.a.p.a.t.t.TesteTransferirSantander : Segmento: EMPRESA_2
+23/08/2019 16:08:24  INFO [           main] b.c.s.a.p.a.t.MenuPrincipalBusiness : null (null) : verificando se o menu principal existe ...
+23/08/2019 16:42:31  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:42:31  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:42:40  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_TransferirSantander falhou ...
+23/08/2019 16:42:43  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_TransferirSantander falhou ...
+23/08/2019 16:42:48  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_TransferirSantander falhou ...
+23/08/2019 16:42:52  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_TransferirSantander falhou ...
+23/08/2019 16:43:16  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:43:16  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:43:24  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_TransferirSantander falhou ...
+23/08/2019 16:43:25  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 16:43:25  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 16:46:05  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:46:05  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:46:13  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste MPJ_00053_TransferirSantander falhou ...
+23/08/2019 16:46:14  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 16:46:14  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 16:49:57  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:49:57  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:50:23  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste Test_0001_TransferirSantander falhou ...
+23/08/2019 16:50:23  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 16:50:23  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 16:54:17  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 16:54:17  INFO [           main] b.c.s.a.s.m.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 16:54:27  INFO [           main] b.c.s.a.s.m.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 16:54:27  INFO [           main] b.c.s.a.s.m.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 16:54:27  INFO [           main] b.c.s.a.s.m.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 16:58:25 ERROR [           main] b.c.s.a.s.c.t.GerenciadorDeClassesDeTeste : Não foi encontrada a classe de nome 'br.com.santander.app.pj.android.teste.transferencias.TesteTransferirSantander' ...
+java.lang.ClassNotFoundException: br.com.santander.app.pj.android.teste.transferencias.TesteTransferirSantander
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_201]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_201]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_201]
+	at br.com.safra.automation.selenium.config.testclasses.GerenciadorDeClassesDeTeste.encontrarClasseDeTeste(GerenciadorDeClassesDeTeste.java:42) ~[classes/:?]
+	at br.com.safra.automation.selenium.config.testclasses.GerenciadorDeClassesDeTesteParaRodar.lambda$0(GerenciadorDeClassesDeTesteParaRodar.java:42) ~[classes/:?]
+	at java.lang.Iterable.forEach(Unknown Source) [?:1.8.0_201]
+	at br.com.safra.automation.selenium.config.testclasses.GerenciadorDeClassesDeTesteParaRodar.getInstance(GerenciadorDeClassesDeTesteParaRodar.java:40) [classes/:?]
+	at br.com.safra.automation.selenium.config.testclasses.GerenciadorDeClassesDeTesteParaRodar.getInstance(GerenciadorDeClassesDeTesteParaRodar.java:26) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.<clinit>(LoopRunner.java:19) [classes/:?]
+	at br.com.safra.app.pj.android.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:26:55  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:26:55  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:26:56  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander foi pulado ...
+23/08/2019 17:26:56  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:28:02  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:28:02  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:28:03  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander foi pulado ...
+23/08/2019 17:28:03  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:30:38  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:30:38  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:30:39 ERROR [           main] b.c.s.a.s.LeitorDeArquivoProperties : Falha ao carregar o arquivo de Properties: C:\Dev\WorkSpace\Mobile_Center_Test\AUTOMACAO_MOBILE_PJ_ANDROID\.\config\local.properties
+java.io.FileNotFoundException: C:\Dev\WorkSpace\Mobile_Center_Test\AUTOMACAO_MOBILE_PJ_ANDROID\.\config\local.properties (O sistema não pode encontrar o arquivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_201]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_201]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_201]
+	at br.com.safra.automation.storage.LeitorDeArquivoProperties.loadProperties(LeitorDeArquivoProperties.java:21) [classes/:?]
+	at br.com.safra.automation.selenium.config.properties.LocalProperties.getInstance(LocalProperties.java:37) [classes/:?]
+	at br.com.safra.automation.selenium.config.properties.LocalProperties.getInstance(LocalProperties.java:26) [classes/:?]
+	at br.com.safra.automation.selenium.config.DriverType.<clinit>(DriverType.java:92) [classes/:?]
+	at br.com.safra.automation.selenium.config.DriverFactory.createDriver(DriverFactory.java:18) [classes/:?]
+	at br.com.safra.automation.selenium.domain.TestBase.instanciaDriver(TestBase.java:108) [classes/:?]
+	at br.com.safra.app.teste.transferencias.TesteTransferirSantander.testeClassico(TesteTransferirSantander.java:28) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:63) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:30:39  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander falhou ...
+23/08/2019 17:30:39  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:30:39  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 17:33:57  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:33:57  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:34:07  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 17:34:07  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:34:07  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 17:39:16  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:39:16  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:39:27  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 17:39:27 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: f44bc5fef1cd6d48c88125c9ad74d5f4
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:63) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:39:27  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:39:27  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=false | PARAR AGORA=false
+23/08/2019 17:40:03  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:40:03  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:40:13  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 17:40:13 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 0a5b7a7fddda06a39309f65740d64d63
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:63) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:40:13  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:40:13  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true | PARAR AGORA=false
+23/08/2019 17:40:13  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:40:13  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:40:17  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 17:40:17 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 0e3ceabd61f1863d6d358b1dfc21210b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:63) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:40:17  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:40:17  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true | PARAR AGORA=false
+23/08/2019 17:40:17  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:40:17  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:42:16  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:42:16  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:42:26  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 17:42:26 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 527db26cf544926802bf7a13beab6028
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:42:26  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:42:26  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 17:42:26  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:42:26  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 17:42:33  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 17:42:34 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: e807ac548a0d3249cf4e982120dc4317
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 17:42:34  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 17:42:34  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 17:42:34  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 17:42:34  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:04:42  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:04:42  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:04:51  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 18:04:51 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 0493a82bef2b68c1b0a91bb63ffb1aa5
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 18:04:51  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:04:51  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:04:51  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:04:51  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:04:55  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSantander teve sucesso ...
+23/08/2019 18:04:55 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: be907d0b5aac3bfe5be28131eabe107f
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 18:04:55  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:04:55  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:04:55  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:04:55  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:10:24  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:10:24  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:10:34  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:10:34 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 41ab5b9b634b8e89af19f7276fe1641a
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 18:10:34  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:10:34  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:10:34  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:10:34  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:10:37  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:10:37 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 75b5eb1e5d8f1ffa4449a2d73acdd20b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 18:10:37  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:10:37  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:10:37  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:10:37  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:14:03  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:14:03  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:14:12  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:14:24 ERROR [           main] b.c.s.a.s.l.TestListener : Não foi possível fazer captura de tela...
+org.openqa.selenium.NoSuchSessionException: no such session
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'RSI4564', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\WELLIN~1.BRI\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: ca7ec691db5a5e7bdd0297893a711322
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_201]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600) ~[selenium-remote-driver-3.12.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289) ~[selenium-remote-driver-3.12.0.jar:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.writeScreenshotToFile(TestListener.java:158) ~[classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.saveScreenshot(TestListener.java:175) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.capturaTela(TestListener.java:195) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.finalizaTesteFeito(TestListener.java:75) [classes/:?]
+	at br.com.safra.automation.selenium.listeners.TestListener.onTestSuccess(TestListener.java:67) [classes/:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1735) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at br.com.safra.automation.selenium.config.TestNgSuiteRunner.execute(TestNgSuiteRunner.java:55) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executarLocal(LoopRunner.java:62) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:41) [classes/:?]
+	at br.com.safra.automation.selenium.config.LoopRunner.executar(LoopRunner.java:23) [classes/:?]
+	at br.com.safra.app.runners.Main.main(Main.java:9) [classes/:?]
+23/08/2019 18:21:37  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:21:37  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:21:46  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:21:47  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:21:47  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:21:47  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:21:47  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:21:50  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:21:50  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:21:50  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:21:50  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:21:50  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:22:22  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:22:22  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:22:31  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:22:32  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:22:32  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:22:32  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:22:32  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:22:39  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:22:40  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:22:40  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:22:40  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:22:40  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:43:49  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:43:49  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:43:58  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:43:58  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:43:58  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:43:58  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:43:58  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:44:09  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:44:09  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:44:18  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:44:21  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:44:21  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:44:21  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:44:21  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:45:51  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:45:51  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:46:01  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:46:02  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:46:02  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:46:02  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:46:02  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:46:09  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:46:09  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:46:09  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:46:09  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:46:09  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:46:32  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:46:32  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:46:41  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:46:41  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:46:41  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:46:41  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:46:41  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:46:49  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:46:49  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:46:49  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:46:49  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:46:49  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:53:55  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:53:55  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:54:05  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:54:06  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:54:06  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:54:06  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:54:06  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
+23/08/2019 18:54:09  INFO [           main] b.c.s.a.s.l.TestListener : Teste Test_0001_TransferirSafra teve sucesso ...
+23/08/2019 18:54:09  INFO [           main] b.c.s.a.s.l.SuiteListener : Finalizando a suíte de teste...
+23/08/2019 18:54:09  INFO [           main] b.c.s.a.s.c.LoopRunner : LOOP=true
+23/08/2019 18:54:09  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : ------------------------ Início da execução ------------------------
+23/08/2019 18:54:09  INFO [           main] b.c.s.a.s.c.TestNgSuiteRunner : Gerando suíte para execução local...
