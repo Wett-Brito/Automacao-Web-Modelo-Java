@@ -1,0 +1,5 @@
+Iniciado A execução - 2019_09_27
+Execução;Teste;Cenário;resultado
+Exec3;Test_0001;Sucesso
+Exec3;Test_0002;Falha
+Total: 2 Passed: 1 Failed: 1 Skipped: 0
